@@ -1,0 +1,1 @@
+opencv/weights/isnet_general_use_480x640.onnx filter=lfs diff=lfs merge=lfs -text
